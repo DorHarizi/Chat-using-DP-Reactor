@@ -9,7 +9,7 @@ b) you implement the mechanism and perform FD to listen to all the (select or po
 
 ### **API of the reactor: **</div>
 </div>
-1. **Void* createReactor()** 
+1. **Void createReactor()** 
 </div>
 
 3. **Void stopReactor(void this)** 
