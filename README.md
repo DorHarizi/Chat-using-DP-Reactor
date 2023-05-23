@@ -12,7 +12,7 @@ b) you implement the mechanism and perform FD to listen to all the (select or po
 1. **Void createReactor()** 
 </div>
 
-3. **Void stopReactor(void this)** 
+2. **Void stopReactor(void this)** 
 </div>
 
 3. **Void startReactor(void this)** 
