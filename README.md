@@ -11,12 +11,16 @@ b) you implement the mechanism and perform FD to listen to all the (select or po
 </div>
 1. **Void* createReactor()** 
 </div>
-2. **Void stopReactor(void this)** 
+
+3. **Void stopReactor(void this)** 
 </div>
+
 3. **Void startReactor(void this)** 
 </div>
+
 4. **Void addFd(void this,int fd, handler_t handler)** 
 </div>
+
 5. **Void WaitFor(void this)** 
 </div>
 
