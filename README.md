@@ -26,12 +26,12 @@ b) you implement the mechanism and perform FD to listen to all the (select or po
 
 ## Building</div>
 1. Cloning the repo to local machine: ` git clone` [https://github.com/DorHarizi/Chat-using-ds-Reactor.git] </div>
-2. Building all the necessary files & the main programs:  `makeall` </div>
-3. Export shared libraries : `export LD_LIBRARY_PATH="."` </div>
+2. Building all the necessary files & the main programs:  `make` </div>
+3. Export shared libraries : `export LD_LIBRARY_PATH=.` </div>
 </div>
 
 ## How to run? </div>
-- Run the reactor server: `gcc -o react_server server.c </div>
+- Run the reactor server: `./react_server </div>
 
 ## Author: </div>
 [DorHarizi](https://github.com/DorHarizi "DorHarizi") **&** [Dor Yanay](https://github.com/DorYanay "Dor Yanay")</div>
