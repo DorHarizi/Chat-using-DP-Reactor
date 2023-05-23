@@ -9,19 +9,19 @@ b) you implement the mechanism and perform FD to listen to all the (select or po
 
 ### API of the reactor:</div>
 
-1. **Void createReactor()** 
+1. **void createReactor()** 
 </div>
 
-2. **Void stopReactor(void this)** 
+2. **void stopReactor(void this)** 
 </div>
 
-3. **Void startReactor(void this)** 
+3. **void startReactor(void this)** 
 </div>
 
-4. **Void addFd(void this,int fd, handler_t handler)** 
+4. **void addFd(void this,int fd, handler_t handler)** 
 </div>
 
-5. **Void WaitFor(void this)** 
+5. **void WaitFor(void this)** 
 </div>
 
 ## Building</div>
