@@ -7,7 +7,7 @@ a) you implement a data structure that will map between the function and the FD 
 b) you implement the mechanism and perform FD to listen to all the (select or poll) that is responsible for the selector </div>
    reactor the operation listed in the table of the </div>
 
-### **API of the reactor: **</div>
+### API of the reactor:</div>
 </div>
 1. **Void createReactor()** 
 </div>
