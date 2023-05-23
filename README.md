@@ -8,7 +8,7 @@ b) you implement the mechanism and perform FD to listen to all the (select or po
    reactor the operation listed in the table of the </div>
 
 ### API of the reactor:</div>
-</div>
+
 1. **Void createReactor()** 
 </div>
 
