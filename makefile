@@ -2,6 +2,7 @@ CC = gcc
 CFLAGS = -Wall -g -fPIC
 
 all: st_reactor.so react_server
+	clear
 
 react_server: server.o
 	$(CC) $(CFLAGS) -o react_server server.o -L. -l:st_reactor.so -lpthread
