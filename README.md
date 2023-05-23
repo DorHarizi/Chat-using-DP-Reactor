@@ -34,4 +34,4 @@ b) you implement the mechanism and perform FD to listen to all the (select or po
 - Run the reactor server: `gcc -o react_server server.c </div>
 
 ## Author: </div>
-[DorHarizi](https://github.com/DorHarizi "DorHarizi") **&** [Dor Yanay](https://github.com/DorYanay "Dor Yanay")# ipc</div>
+[DorHarizi](https://github.com/DorHarizi "DorHarizi") **&** [Dor Yanay](https://github.com/DorYanay "Dor Yanay")</div>
