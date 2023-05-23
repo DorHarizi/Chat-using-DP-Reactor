@@ -25,7 +25,7 @@ b) you implement the mechanism and perform FD to listen to all the (select or po
 </div>
 
 ## Building</div>
-1. Cloning the repo to local machine: ` git clone` [https://github.com/DorHarizi/task4_os_reactor.git] </div>
+1. Cloning the repo to local machine: ` git clone` [https://github.com/DorHarizi/Chat-using-ds-Reactor.git] </div>
 2. Building all the necessary files & the main programs:  `makeall` </div>
 3. Export shared libraries : `export LD_LIBRARY_PATH="."` </div>
 </div>
