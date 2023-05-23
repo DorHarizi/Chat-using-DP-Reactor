@@ -3,12 +3,12 @@ Task 4 : Linux practice - Operating systems course.</div>
 
 ## Project Description:</div>
 The reactor of the design pattern according like that: </div>
-a) you implement a data structure that will map between the function and the function </div>
+a) you implement a data structure that will map between the function and the FD </div>
 b) you implement the mechanism and perform FD to listen to all the (select or poll) that is responsible for the selector </div>
    reactor the operation listed in the table of the </div>
 
 ### **API of the reactor: **</div>
-
+</div>
 1. **Void* createReactor()** 
 </div>
 2. **Void stopReactor(void this)** 
